@@ -39,6 +39,7 @@ SET /P username=
 if %username% == oxononim goto loginoxo
 if %username% == tomthedev goto logintom
 if %username% == nothinvr goto loginno
+if %username% == gamerdi goto logindi
 	if else Exit
 
 :loginoxo
@@ -57,6 +58,12 @@ if %password% == misobeefismyoneandonlygod goto start
 echo            enter your password
 set /p password=
 if %password% == 120217 goto start
+	if else Exit
+
+:logindi
+echo            enter your password
+set /p password=
+if %password% == Toaster goto start
 	if else Exit
 
 :start
