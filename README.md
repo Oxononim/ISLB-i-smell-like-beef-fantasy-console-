@@ -2,3 +2,4 @@ heya! im oxo, creator of this... uhh.. thing? project? i dunno. anyways, this is
 update logs:
 v 2.4 - added new private login for new member
 v 2.5 - added community login
+v 2.6 - fixed minor bug
