@@ -4,3 +4,4 @@ v 2.4 - added new private login for new member
 v 2.5 - added community login
 v 2.6 - fixed minor bug
 v 2.7 - added startup animation
+v 2.8 - revamped animations and startup / added archive of older versions
