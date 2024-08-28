@@ -5,3 +5,4 @@ v 2.5 - added community login
 v 2.6 - fixed minor bug
 v 2.7 - added startup animation
 v 2.8 - revamped animations and startup / added archive of older versions
+v 2.9 - added random splash texts
