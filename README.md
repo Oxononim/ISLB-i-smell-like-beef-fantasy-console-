@@ -8,3 +8,4 @@ v 2.8 - revamped animations and startup / added archive of older versions
 v 2.9 - added random splash texts
 v 3.0 - added COLOR
 v 3.1 - bug fixes and aesthetic fixes
+v 3.2 - THE LONG AWAITED UPDATE!... by no one. Added a notepad.
